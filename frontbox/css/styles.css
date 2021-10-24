@@ -355,6 +355,7 @@ img {
 .newsletter-form {
 	flex: 2 1 260px;
 	display: flex;
+	flex-wrap: wrap;
 }
 
 .newsletter-form__input {
